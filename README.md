@@ -15,12 +15,12 @@ I'm <strong>0xInject</strong>, a passionate cybersecurity student from Pakistan.
 <details>
   <summary>More about me</summary>
 
-- 🌍 From: Pakistan  
-- 🔐 Cybersecurity Student | Ethical Hacker | TryHackMe Learner | Bug Bounty Beginner  
-- 🧠 Currently learning: Metasploit Framework, Nmap, Advanced Linux  
-- 🛠️ Building cool cybersecurity projects  
-- 🔍 Exploring vulnerabilities & practicing real-world attacks  
-- 🤖 Love automating with Python & digging into packet traffic  
+- From: Pakistan  
+- Penetration Tester | Security Researcher 
+- Currently learning: Metasploit Framework, Nmap, Advanced Linux  
+- Building cool cybersecurity projects  
+- Exploring vulnerabilities & practicing real-world attacks  
+- Lifelong learner — always exploring everything
 
 </details>
 
@@ -31,12 +31,15 @@ I'm <strong>0xInject</strong>, a passionate cybersecurity student from Pakistan.
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 - ⚡ Practicing with TryHackMe Labs  
-- ⚙️ Learning Metasploit, Linux internals, and network scanning  
+- ⚙️ Learning Penetration Testing  
 - 🧰 Building tools & scripts to level up skills  
 - 🚩 Playing with real-world attack scenarios  
-- 🚀 On a journey to become a pro in ethical hacking
+- 🚀 On a journey to become a pro in ethical hacking  
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/0xInject)
 
 ---
+
 
 <h2>🧠 Skills & Tools</h2>
 
